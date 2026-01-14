@@ -1,0 +1,7 @@
+node_modules
+produtos-ml.json
+debug-ml.html
+.env
+dist
+.DS_Store
+Thumbs.db

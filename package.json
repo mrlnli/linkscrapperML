@@ -1,0 +1,15 @@
+{
+  "nome": "linkscrapperml",
+  "versao": "1.0.0",
+  "descricao": "scraper de produtos e imagens do meli usando o playwright",
+  "tipo": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape-ml.mjs",
+    "setup": "npx playwright install chromium"
+  },
+  
+  "dependencias": {
+    "playwright": "^1.57.0"
+  }
+
+}
