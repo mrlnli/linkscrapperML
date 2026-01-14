@@ -1,6 +1,6 @@
 # Mercado Livre Scraper (Playwright)
 
-Esse projeto é um scraper simples que coleta automaticamente produtos do Mercado Livre a partir de uma página de listagem do vendedor (por **CustId**), extraindo:
+Scraper simples que coleta automaticamente produtos do Mercado Livre a partir de uma página de listagem do vendedor (por **CustId**), extraindo:
 
 - Nome do produto
 - Preço
